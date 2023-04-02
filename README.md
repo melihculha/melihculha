@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🤍 I'm currently a student at Istanbul University Computer Programming
+- 🌱 I’m currently learning HTML, CSS & JS
+- 💌 How to reach me: [My Mail](mailto:melih23culha@gmail.com)
 
 <!--
 **melihculha/melihculha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
